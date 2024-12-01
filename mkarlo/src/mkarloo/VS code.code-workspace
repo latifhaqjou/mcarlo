@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../python"
+		},
+		{
+			"path": "../../../../../web_com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web_com"
+	}
+}
